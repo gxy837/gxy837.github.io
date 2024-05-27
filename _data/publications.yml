@@ -2,7 +2,7 @@ main:
 
   - title: Bandwidth-Greedy Hashing for Massive-Scale Concurrent Flows
     authors: Tian Pan, Bin Liu, <strong>Xiaoyu Guo</strong>, Yang Li, Haoyu Song
-    conference_short: ICDCS
+    # conference_short: ICDCS
     conference: International Conference on Distributed Computing Systems <strong>(ICDCS)</strong>, 2016.
     pdf: https://ieeexplore.ieee.org/iel7/7529829/7536347/07536564.pdf
     notes: Oral Presentation
@@ -10,7 +10,7 @@ main:
 
   - title: "NameFilter: Achieving fast name lookup with low memory cost via applying two-stage Bloom filters"
     authors: Yi Wang, Tian Pan, Zhian Mi, Huichen Dai, <strong>Xiaoyu Guo</strong>, Ting Zhang, Bin Liu, Qunfeng Dong
-    conference_short: INFOCOM
+    # conference_short: INFOCOM
     conference: IEEE International Conference on Computer Communications <strong>(INFOCOM)</strong>, 2013.
     pdf: https://ieeexplore.ieee.org/iel7/6556116/6566708/06566742.pdf
     notes: Oral Presentation
@@ -18,7 +18,7 @@ main:
 
   - title: "An ultra-fast universal incremental update algorithm for trie-based routing lookup"
     authors: Tong Yang, Zhian Mi, Ruian Duan, <strong>Xiaoyu Guo</strong>, Jianyuan Lu, Shenjiang Zhang, Xianda Sun, Bin Liu
-    conference_short: ICNP
+    # conference_short: ICNP
     conference: International Conference on Network Protocols <strong>(ICNP)</strong>, 2012.
     pdf: https://ieeexplore.ieee.org/iel5/6424016/6459930/06459984.pdf
     notes: Oral Presentation
@@ -26,7 +26,7 @@ main:
   
   - title: "Tracking millions of flows in high speed networks for application identification"
     authors: Tian Pan, <strong>Xiaoyu Guo</strong>, Chenhui Zhang, Junchen Jiang, Hao Wu, Bin Liu
-    conference_short: INFOCOM
+    # conference_short: INFOCOM
     conference: IEEE International Conference on Computer Communications <strong>(INFOCOM)</strong>, 2012.
     pdf: https://ieeexplore.ieee.org/iel5/6189419/6195452/06195535.pdf
     notes: Oral Presentation
@@ -34,7 +34,7 @@ main:
 
   - title: "ALFE: A replacement policy to cache elephant flows in the presence of mice flooding"
     authors: Tian Pan, <strong>Xiaoyu Guo</strong>, Chenhui Zhang, Wei Meng, Bin Liu
-    conference_short: ICC
+    # conference_short: ICC
     conference: IEEE International Conference on Communication <strong>(ICC)</strong>, 2012.
     pdf: https://ieeexplore.ieee.org/iel5/6350935/6363631/06364403.pdf
     notes: Oral Presentation
