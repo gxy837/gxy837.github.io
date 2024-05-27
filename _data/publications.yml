@@ -6,8 +6,9 @@ main:
     conference: International Conference on Distributed Computing Systems <strong>(ICDCS)</strong>, 2016.
     pdf: https://ieeexplore.ieee.org/iel7/7529829/7536347/07536564.pdf
     notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
 
-    title: "NameFilter: Achieving fast name lookup with low memory cost via applying two-stage Bloom filters"
+  - title: "NameFilter: Achieving fast name lookup with low memory cost via applying two-stage Bloom filters"
     authors: Yi Wang, Tian Pan, Zhian Mi, Huichen Dai, <strong>Xiaoyu Guo</strong>, Ting Zhang, Bin Liu, Qunfeng Dong
     conference_short: INFOCOM
     conference: IEEE International Conference on Computer Communications <strong>(INFOCOM)</strong>, 2013.
@@ -15,7 +16,7 @@ main:
     notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
 
-    title: "An ultra-fast universal incremental update algorithm for trie-based routing lookup"
+  - title: "An ultra-fast universal incremental update algorithm for trie-based routing lookup"
     authors: Tong Yang, Zhian Mi, Ruian Duan, <strong>Xiaoyu Guo</strong>, Jianyuan Lu, Shenjiang Zhang, Xianda Sun, Bin Liu
     conference_short: ICNP
     conference: International Conference on Network Protocols <strong>(ICNP)</strong>, 2012.
@@ -23,7 +24,7 @@ main:
     notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
   
- -  title: "Tracking millions of flows in high speed networks for application identification"
+  - title: "Tracking millions of flows in high speed networks for application identification"
     authors: Tian Pan, <strong>Xiaoyu Guo</strong>, Chenhui Zhang, Junchen Jiang, Hao Wu, Bin Liu
     conference_short: INFOCOM
     conference: IEEE International Conference on Computer Communications <strong>(INFOCOM)</strong>, 2012.
