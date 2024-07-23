@@ -28,3 +28,10 @@
   <li><a href="http://www.mcm.edu.cn/"><autocolor>1st prize, China Undergraduate Mathematics Contest in Modeling (CUMCM), Beijing Division, 2008&2009 (Twice)</autocolor></a></li>
   <li><a href="https://www.comap.com/contests/mcm-icm"><autocolor>Meritorious Winner (1st prize), The International Mathematics Contest in Modeling(MCM), 2009</autocolor></a></li>
 </ul>
+
+<h4 style="margin:0 10px 0;">Services and Membership</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><a href="https://www.caai.cn/index.php?s=/home/index/index.html"><autocolor>Chinese Association for Artificial Intelligence, Member, 2021~2026</autocolor></a></li>
+  <li><a href="https://neurips.cc/"><autocolor>The Thirty-eighth Annual Conference on Neural Information Processing Systems (NIPS), Reviewer, 2024</autocolor></a></li>
+</ul>
